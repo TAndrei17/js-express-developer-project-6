@@ -8,3 +8,8 @@ temp/
 database.sqlite
 .env
 .env.vault
+
+.env*
+.flaskenv*
+!.env.project
+!.env.vault
